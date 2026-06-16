@@ -23,7 +23,7 @@ El sistema permite automatizar, controlar y dar seguimiento a los siguientes pro
 <img src="https://github.com/ivangutg/Practica-6-7-8/blob/main/Im%C3%A1genes/eer.png?raw=true" alt="Diagrama Entidad-Relación Extendido (EER)" width="800"/>
 
 ### Modelo Relacional
-<img src="URL_DE_TU_IMAGEN_RELACIONAL" alt="Modelo Relacional" width="800"/>
+<img src="https://github.com/ivangutg/Practica-6-7-8/blob/main/Im%C3%A1genes/relacional.png?raw=true" alt="Modelo Relacional" width="800"/>
 
 ## ⚙️ Instrucciones de Instalación y Ejecución
 
