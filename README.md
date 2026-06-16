@@ -1,4 +1,4 @@
-# Tienda de electrodomésticos
+
 # Tienda de reparación de electrodomésticos
 
 ## 👥 Integrantes
